@@ -16,7 +16,7 @@ Testirali smo napad u virtualiziranoj Docker mreži koju čine 3 docker računal
 
 → Naredbom cd ušli smo u direktorij *arp-spoofing/* u kojem se nalaze skripte **start.sh** i **stop.sh** koje služe za pokretanje i zaustavljanje docker kontejnera
 
-POKRETANJE**:** $ ./start.sh, ZAUSTAVLJANJE**:** $ ./stop.sh
+POKRETANJE: $ ./start.sh, ZAUSTAVLJANJE: $ ./stop.sh
 
 → Pokrenuli smo shell station-1 i provjerili konfiguraciju mrežnog interface-a, 
 
